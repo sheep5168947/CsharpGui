@@ -1,0 +1,10 @@
+C:\Users\sheep\OneDrive\桌面\新增資料夾\CsharpGUI\CsharpGUI\bin\Debug\CsharpGUI.exe.config
+C:\Users\sheep\OneDrive\桌面\新增資料夾\CsharpGUI\CsharpGUI\bin\Debug\CsharpGUI.exe
+C:\Users\sheep\OneDrive\桌面\新增資料夾\CsharpGUI\CsharpGUI\bin\Debug\CsharpGUI.pdb
+C:\Users\sheep\OneDrive\桌面\新增資料夾\CsharpGUI\CsharpGUI\obj\Debug\CsharpGUI.csprojAssemblyReference.cache
+C:\Users\sheep\OneDrive\桌面\新增資料夾\CsharpGUI\CsharpGUI\obj\Debug\CsharpGUI.Form1.resources
+C:\Users\sheep\OneDrive\桌面\新增資料夾\CsharpGUI\CsharpGUI\obj\Debug\CsharpGUI.Properties.Resources.resources
+C:\Users\sheep\OneDrive\桌面\新增資料夾\CsharpGUI\CsharpGUI\obj\Debug\CsharpGUI.csproj.GenerateResource.cache
+C:\Users\sheep\OneDrive\桌面\新增資料夾\CsharpGUI\CsharpGUI\obj\Debug\CsharpGUI.csproj.CoreCompileInputs.cache
+C:\Users\sheep\OneDrive\桌面\新增資料夾\CsharpGUI\CsharpGUI\obj\Debug\CsharpGUI.exe
+C:\Users\sheep\OneDrive\桌面\新增資料夾\CsharpGUI\CsharpGUI\obj\Debug\CsharpGUI.pdb
